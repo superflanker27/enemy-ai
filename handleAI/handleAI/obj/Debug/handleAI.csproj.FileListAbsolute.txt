@@ -1,0 +1,6 @@
+C:\Users\ISLI\Desktop\handleAI\handleAI\bin\Debug\handleAI.dll
+C:\Users\ISLI\Desktop\handleAI\handleAI\bin\Debug\handleAI.pdb
+C:\Users\ISLI\Desktop\handleAI\handleAI\obj\Debug\handleAI.csproj.AssemblyReference.cache
+C:\Users\ISLI\Desktop\handleAI\handleAI\obj\Debug\handleAI.csproj.CoreCompileInputs.cache
+C:\Users\ISLI\Desktop\handleAI\handleAI\obj\Debug\handleAI.dll
+C:\Users\ISLI\Desktop\handleAI\handleAI\obj\Debug\handleAI.pdb
